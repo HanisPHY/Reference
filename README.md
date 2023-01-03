@@ -12,4 +12,5 @@
 
 ## CSS
 * [CSS cheatsheet](https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf)
+* [CSS cheatsheet -- CSS trick](https://css-tricks.com/almanac/properties/b/background/)
 * [CSS text overflowing](https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/)
